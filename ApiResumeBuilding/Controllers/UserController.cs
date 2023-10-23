@@ -28,7 +28,7 @@ namespace ApiResumeBuilding.Controllers
 
         [HttpPost("signup")]
         public async Task<IActionResult> SignUp(User user)
-        {
+            {
             // Check if the provided password is null or empty
             if (string.IsNullOrEmpty(user.PasswordHash))
             {
@@ -48,7 +48,8 @@ namespace ApiResumeBuilding.Controllers
             _context.Users.Add(user);
             await _context.SaveChangesAsync();
 
-            return Ok("User registered successfully.");
+            return Ok(new { message = "User registered successfully." });
+
         }
 
 
