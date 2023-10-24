@@ -55,7 +55,8 @@ namespace ApiResumeBuilding
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "ApiResumeBuilding v1"));
             }
-
+            app.UseSwagger();
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "ApiResumeBuilding v1"));
             app.UseHttpsRedirection();
 
             app.UseRouting();

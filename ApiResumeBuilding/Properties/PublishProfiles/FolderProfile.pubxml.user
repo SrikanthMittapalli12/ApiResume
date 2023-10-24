@@ -1,10 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!--
-https://go.microsoft.com/fwlink/?LinkID=208121. 
+https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
-<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\HP\Desktop\New folder (3)</_PublishTargetUrl>
-    <History>True|2023-09-23T06:58:25.4652957Z;True|2023-09-20T22:39:21.2174379+05:30;</History>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\HP\Desktop\New folder (7)</_PublishTargetUrl>
+    <History>True|2023-10-24T06:14:43.6633374Z;True|2023-10-24T11:42:22.5725869+05:30;</History>
+    <LastFailureDetails />
   </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="Conn">
+      <Value>Server=LAPTOP-CI15T36P\SQLEXPRESS%3bDatabase=ResumeBuild%3bTrusted_Connection=True%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="ApiResumeBuilding.Models.ResumeBuildContext">
+      <Value>Server=LAPTOP-CI15T36P\SQLEXPRESS%3bDatabase=ResumeBuild%3bTrusted_Connection=True%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
 </Project>

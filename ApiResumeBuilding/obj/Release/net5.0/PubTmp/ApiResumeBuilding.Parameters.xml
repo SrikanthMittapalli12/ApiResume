@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ResumeBuildingApi" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Srikanth\\ResumeBuilding\ Asp\.net\ core\\ApiResumeBuilding\\ApiResumeBuilding\\obj\\Release\\net5\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="ApiResumeBuilding.Models.ResumeBuildContext" description="" value="" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\Srikanth\\ResumeBuilding\ Asp\.net\ core\\ApiResumeBuilding\\ApiResumeBuilding\\obj\\Release\\net5\.0\\PubTmp\\EFSQLScripts\\ApiResumeBuilding\.Models\.ResumeBuildContext\.sql$" />
+  </parameter>
+</parameters>

@@ -5,7 +5,6 @@ C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuildin
 C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\bin\Debug\net5.0\ApiResumeBuilding.runtimeconfig.json
 C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\bin\Debug\net5.0\ApiResumeBuilding.runtimeconfig.dev.json
 C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\bin\Debug\net5.0\ApiResumeBuilding.dll
-C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\bin\Debug\net5.0\ref\ApiResumeBuilding.dll
 C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\bin\Debug\net5.0\ApiResumeBuilding.pdb
 C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\bin\Debug\net5.0\Humanizer.dll
 C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
@@ -52,7 +51,6 @@ C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuildin
 C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Debug\net5.0\ApiResumeBuilding.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Debug\net5.0\ApiResumeBuilding.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Debug\net5.0\staticwebassets\ApiResumeBuilding.StaticWebAssets.Manifest.cache
-C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Debug\net5.0\staticwebassets\ApiResumeBuilding.StaticWebAssets.xml
 C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Debug\net5.0\scopedcss\bundle\ApiResumeBuilding.styles.css
 C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Debug\net5.0\ApiResumeBuilding.RazorTargetAssemblyInfo.cache
 C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Debug\net5.0\ApiResumeBuilding.csproj.CopyComplete
@@ -62,3 +60,9 @@ C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuildin
 C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Debug\net5.0\ApiResumeBuilding.genruntimeconfig.cache
 C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\bin\Debug\net5.0\BCrypt.Net-Next.dll
 C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Debug\net5.0\ApiResumeBuilding.csproj.AssemblyReference.cache
+C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Debug\net5.0\staticwebassets\ApiResumeBuilding.StaticWebAssets.Pack.cache
+C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Debug\net5.0\staticwebassets\msbuild.ApiResumeBuilding.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Debug\net5.0\staticwebassets\msbuild.build.ApiResumeBuilding.props
+C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ApiResumeBuilding.props
+C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ApiResumeBuilding.props
+C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Debug\net5.0\refint\ApiResumeBuilding.dll

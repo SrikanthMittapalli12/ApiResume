@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Release\net5.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\Srikanth\ResumeBuilding Asp.net core\ApiResumeBuilding\ApiResumeBuilding\obj\Release\net5.0\PubTmp\EFSQLScripts\ApiResumeBuilding.Models.ResumeBuildContext.sql" />
+</sitemanifest>
